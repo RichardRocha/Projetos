@@ -54,20 +54,55 @@ void inserir(int valor) {
 No* buscarElemento(int valor) //Para retornar o conteudo, colocar no lugar de No* int
 {
     No* aux = raiz;
-    if (aux->valor == valor)
-    {
-        return aux;
+
+    //Verificar se existe arvore para buscar valor
+    if (aux == NULL)
+        return NULL;
+    
+    while (true) {
+        if (valor == aux->valor)
+            return aux;
+        else if (valor < aux->valor) 
+        {
+            if (aux->esq == NULL)
+                return NULL;
+            aux = aux->esq;
+        }
+        else if (valor > aux->valor) {
+            if (aux->dir == NULL)
+                return NULL;
+            aux = aux->dir;
+
+        }   
+    }  
+}
+
+//REALIZANDO UM PERCURSO IN-ORDEM NA ARVORE
+void inOrdem (No* raiz) {
+    if (raiz != NULL) {
+        inOrdem (raiz->esq);
+        cout << raiz->valor << "\t";
+        inOrdem (raiz->dir);
     }
 
-    while (true)
-    {
-        if (valor < aux->esq->valor)
-        {
-            
-        }
+}
+
+//REALIZANDO UM PERCURSO PRE-ORDEM NA ARVORE
+void preOrdem (No* raiz) {
+    if (raiz != NULL) {
+        cout << raiz->valor << "\t";
+        preOrdem (raiz->esq);
+        preOrdem (raiz->dir);
     }
-    
-    
+}
+
+//REALIZANDO UM PERCURSO POS-ORDEM NA ARVORE
+void posOrdem (No* raiz) {
+    if (raiz != NULL) {
+        posOrdem (raiz->esq);
+        posOrdem (raiz->dir);
+        cout << raiz->valor << "\t";
+    }
 }
 
 int main()
@@ -79,6 +114,22 @@ int main()
     inserir(13);
     inserir(11);
     inserir(5);
+    
+    No* retorno = buscarElemento(21);
+
+    if (retorno != NULL)
+        cout << "Valor encontrado: " << retorno->valor;
+    else 
+        cout << "Valor não existe" << endl;
+
+    cout << "Valor exibidos no percurso IN-ORDEM" << endl;
+    inOrdem(raiz);
+
+    cout << "Valor exibidos no percurso PRE-ORDEM" << endl;
+    preOrdem(raiz);
+
+    cout << "Valor exibidos no percurso POS-ORDEM" << endl;
+    posOrdem(raiz);
 
     return 0;
 }
