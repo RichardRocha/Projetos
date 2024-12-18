@@ -76,7 +76,11 @@ No* buscarElemento(int valor) //Para retornar o conteudo, colocar no lugar de No
         }   
     }  
 }
+<<<<<<< HEAD
 //Fazendo um texto github bla
+=======
+
+>>>>>>> b00d45a28739676e0e207ee816309dd2bb9aeaec
 //REALIZANDO UM PERCURSO IN-ORDEM NA ARVORE
 void inOrdem (No* raiz) {
     if (raiz != NULL) {
@@ -84,7 +88,11 @@ void inOrdem (No* raiz) {
         cout << raiz->valor << "\t";
         inOrdem (raiz->dir);
     }
+<<<<<<< HEAD
 cout << "test" << endl;
+=======
+
+>>>>>>> b00d45a28739676e0e207ee816309dd2bb9aeaec
 }
 
 //REALIZANDO UM PERCURSO PRE-ORDEM NA ARVORE
@@ -128,7 +136,11 @@ int main()
     cout << "Valor exibidos no percurso PRE-ORDEM" << endl;
     preOrdem(raiz);
 
+<<<<<<< HEAD
     cout << "Valor exibidos no percurso POS-" << endl;
+=======
+    cout << "Valor exibidos no percurso POS-ORDEM" << endl;
+>>>>>>> b00d45a28739676e0e207ee816309dd2bb9aeaec
     posOrdem(raiz);
 
     return 0;
