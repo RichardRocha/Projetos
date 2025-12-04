@@ -1,0 +1,5 @@
+C:\dev\Projetos\Alg. e Estrutura de Dados\Test2_APOO2\Test2_APOO2\obj\Debug\net8.0\Test2_APOO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Projetos\Alg. e Estrutura de Dados\Test2_APOO2\Test2_APOO2\obj\Debug\net8.0\Test2_APOO2.AssemblyInfoInputs.cache
+C:\dev\Projetos\Alg. e Estrutura de Dados\Test2_APOO2\Test2_APOO2\obj\Debug\net8.0\Test2_APOO2.AssemblyInfo.cs
+C:\dev\Projetos\Alg. e Estrutura de Dados\Test2_APOO2\Test2_APOO2\obj\Debug\net8.0\Test2_APOO2.csproj.CoreCompileInputs.cache
+C:\dev\Projetos\Alg. e Estrutura de Dados\Test2_APOO2\Test2_APOO2\obj\Debug\net8.0\Test2_APOO2.sourcelink.json

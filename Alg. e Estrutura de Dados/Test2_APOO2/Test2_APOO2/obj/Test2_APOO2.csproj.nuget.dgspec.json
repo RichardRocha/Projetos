@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj": {}
+    "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj": {
+    "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj",
+        "projectUniqueName": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj",
         "projectName": "Test2_APOO2",
-        "projectPath": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj",
+        "projectPath": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj",
         "packagesPath": "C:\\Users\\richard_rocha\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2\\obj\\",
+        "outputPath": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

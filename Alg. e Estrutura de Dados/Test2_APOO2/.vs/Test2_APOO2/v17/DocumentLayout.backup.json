@@ -1,10 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\",
+  "WorkspaceRootPath": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\test2_apoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\repositories\\eventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\views\\eventoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\views\\eventoview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\factories\\eventofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\factories\\eventofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\controllers\\eventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\config\\configuracaosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\config\\configuracaosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\factories\\minicursofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\factories\\minicursofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\repositories\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\repositories\\ieventorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\models\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\models\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\factories\\workshopfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\factories\\workshopfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\factories\\palestrafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\factories\\palestrafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\exceptions\\eventosemvagasexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\exceptions\\eventosemvagasexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\exceptions\\participantejainscritoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\exceptions\\participantejainscritoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\exceptions\\limiteinscricoesexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\exceptions\\limiteinscricoesexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\exceptions\\eventonaoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\exceptions\\eventonaoencontradoexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\models\\minicurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\models\\minicurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\models\\workshop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\models\\palestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\models\\palestra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|c:\\dev\\projetos\\alg. e estrutura de dados\\test2_apoo2\\test2_apoo2\\test2_apoo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C52A09AE-EDDB-444A-845D-C5B187AA66A3}|Test2_APOO2\\Test2_APOO2.csproj|solutionrelative:test2_apoo2\\test2_apoo2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +90,268 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventoRepository.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Repositories\\EventoRepository.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Repositories\\EventoRepository.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Repositories\\EventoRepository.cs",
+              "RelativeToolTip": "Test2_APOO2\\Repositories\\EventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:56:56.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEventoRepository.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Repositories\\IEventoRepository.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Repositories\\IEventoRepository.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Repositories\\IEventoRepository.cs",
+              "RelativeToolTip": "Test2_APOO2\\Repositories\\IEventoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:56:48.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventoController.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Controllers\\EventoController.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Controllers\\EventoController.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Controllers\\EventoController.cs",
+              "RelativeToolTip": "Test2_APOO2\\Controllers\\EventoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:56:26.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Evento.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Models\\Evento.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Evento.cs",
+              "RelativeToolTip": "Test2_APOO2\\Models\\Evento.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwC4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:55:27.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventoView.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Views\\EventoView.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Views\\EventoView.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Views\\EventoView.cs",
+              "RelativeToolTip": "Test2_APOO2\\Views\\EventoView.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:56:16.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Program.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Program.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Program.cs",
+              "RelativeToolTip": "Test2_APOO2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:44:00.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventoFactory.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Factories\\EventoFactory.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Factories\\EventoFactory.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Factories\\EventoFactory.cs",
+              "RelativeToolTip": "Test2_APOO2\\Factories\\EventoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:57:07.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MinicursoFactory.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Factories\\MinicursoFactory.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Factories\\MinicursoFactory.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Factories\\MinicursoFactory.cs",
+              "RelativeToolTip": "Test2_APOO2\\Factories\\MinicursoFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:57:32.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConfiguracaoSistema.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Config\\ConfiguracaoSistema.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Config\\ConfiguracaoSistema.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Config\\ConfiguracaoSistema.cs",
+              "RelativeToolTip": "Test2_APOO2\\Config\\ConfiguracaoSistema.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:57:42.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Participante.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Participante.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Models\\Participante.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Participante.cs",
+              "RelativeToolTip": "Test2_APOO2\\Models\\Participante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:56:03.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WorkshopFactory.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Factories\\WorkshopFactory.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Factories\\WorkshopFactory.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Factories\\WorkshopFactory.cs",
+              "RelativeToolTip": "Test2_APOO2\\Factories\\WorkshopFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:57:23.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PalestraFactory.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Factories\\PalestraFactory.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Factories\\PalestraFactory.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Factories\\PalestraFactory.cs",
+              "RelativeToolTip": "Test2_APOO2\\Factories\\PalestraFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:57:15.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventoSemVagasException.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Exceptions\\EventoSemVagasException.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Exceptions\\EventoSemVagasException.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Exceptions\\EventoSemVagasException.cs",
+              "RelativeToolTip": "Test2_APOO2\\Exceptions\\EventoSemVagasException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:58:06.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParticipanteJaInscritoException.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Exceptions\\ParticipanteJaInscritoException.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Exceptions\\ParticipanteJaInscritoException.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Exceptions\\ParticipanteJaInscritoException.cs",
+              "RelativeToolTip": "Test2_APOO2\\Exceptions\\ParticipanteJaInscritoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:58:15.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LimiteInscricoesException.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Exceptions\\LimiteInscricoesException.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Exceptions\\LimiteInscricoesException.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Exceptions\\LimiteInscricoesException.cs",
+              "RelativeToolTip": "Test2_APOO2\\Exceptions\\LimiteInscricoesException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:58:23.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EventoNaoEncontradoException.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Exceptions\\EventoNaoEncontradoException.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Exceptions\\EventoNaoEncontradoException.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Exceptions\\EventoNaoEncontradoException.cs",
+              "RelativeToolTip": "Test2_APOO2\\Exceptions\\EventoNaoEncontradoException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:57:58.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Minicurso.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Minicurso.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Models\\Minicurso.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Minicurso.cs",
+              "RelativeToolTip": "Test2_APOO2\\Models\\Minicurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:55:54.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Workshop.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Workshop.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Models\\Workshop.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Workshop.cs",
+              "RelativeToolTip": "Test2_APOO2\\Models\\Workshop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:55:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Palestra.cs",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Palestra.cs",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Models\\Palestra.cs",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Models\\Palestra.cs",
+              "RelativeToolTip": "Test2_APOO2\\Models\\Palestra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:55:38.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Test2_APOO2",
+              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj",
+              "RelativeDocumentMoniker": "Test2_APOO2\\Test2_APOO2.csproj",
+              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2.csproj",
+              "RelativeToolTip": "Test2_APOO2\\Test2_APOO2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T16:53:49.074Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
@@ -107,19 +443,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2\\Program.cs",
-              "RelativeDocumentMoniker": "Test2_APOO2\\Program.cs",
-              "ToolTip": "C:\\dev\\Projetos\\Alg. e Estrutura de Dados\\Test2_APOO2\\Test2_APOO2\\Test2_APOO2\\Program.cs",
-              "RelativeToolTip": "Test2_APOO2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T16:44:00.894Z",
-              "EditorCaption": ""
             }
           ]
         }
