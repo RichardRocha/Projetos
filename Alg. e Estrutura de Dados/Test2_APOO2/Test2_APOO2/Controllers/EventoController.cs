@@ -65,5 +65,10 @@ namespace Test2_APOO2.Controllers
             return _repository.ListarTodos()
                 .Sum(e => e.Preco * e.Inscritos.Count);
         }
+        public List<Evento> ListarTodos()
+        {
+            return _repository.ListarTodos();
+        }
+
     }
 }

@@ -23,5 +23,9 @@ namespace Test2_APOO2.Repositories
         {
             return _eventos.FirstOrDefault(e => e.Titulo.Contains(titulo));
         }
+        public List<Evento> ListarTodos()
+        {
+            return _eventos;
+        }
     }
 }
